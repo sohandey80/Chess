@@ -1,0 +1,27 @@
+body{
+  background: linear-gradient( #00BCD4 0%,#BA68C8 100%);
+  text-align:center;
+}
+#img1{
+  height:100px;
+  width:150px;
+  border-color:#212121;
+  
+}
+#pi{
+  font-size:30px;
+  color:#1A237E;
+}
+#p1{
+  font-size:25px;
+    color:#1A237E;
+}
+.menu{
+  list-style:none;
+  font-family:cursive;
+  float:right;
+  top:10px;
+  right;30px;
+  cursor:pointer;
+  color:blue;
+}
